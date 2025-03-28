@@ -1,0 +1,10 @@
+# Ignorar arquivos do Eclipse
+*.class
+*.log
+*.bak
+.settings/
+.project
+.classpath
+
+# Ignorar pastas do Git
+.git/

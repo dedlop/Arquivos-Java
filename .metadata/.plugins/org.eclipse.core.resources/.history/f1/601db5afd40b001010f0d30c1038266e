@@ -1,0 +1,18 @@
+package metodotostring;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String primeira = "Java";
+		String segunda = "Csharp";
+		String terceira = new String("Python");
+		
+		System.out.println(primeira);
+		System.out.println(segunda);
+		System.out.println(terceira);
+		
+
+	}
+
+}
